@@ -1,0 +1,1183 @@
+﻿#== v3.4 == ( 10-02-2022 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|HTMLPurifier|PHPMailer|SimpleImage|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [tagify]
+
+- [Added] Wasabi Cloud Storage
+- [Added] Free Trial Pro Packages
+- [Added] Sorting in Jobs
+- [Added] Filter by location in Jobs
+- [Added] Sorting in Offers
+- [Added] Filter by location in Offers
+- [Added] Filter by location in Marketplace
+- [Added] Pro Packages Order
+- [Added] Newsfeed Module Publicly Accessible
+- [Added] Admin ability to turn Newsfeed Public On/Off [Admin Panel]
+- [Added] Pages Module Publicly Accessible
+- [Added] Groups Module Publicly Accessible
+- [Added] Events Module Publicly Accessible
+- [Added] Games Module Publicly Accessible
+- [Added] Developers Module Publicly Accessible
+- [Added] Photos in Lightbox Mode Publicly Accessible
+- [Added] Allow Uploading .webp Images
+- [Added] Max Results for Marketplace [Admin Panel]
+- [Added] Max Results for Offers [Admin Panel]
+- [Added] Max Results for Jobs [Admin Panel]
+- [Added] Max Results for Games [Admin Panel]
+- [Added] Max Results for Search [Admin Panel]
+- [Added] Advanced Search System (Load More Results)
+- [Added] Auto-Play Videos
+- [Added] Admin ability to turn Auto-Play Videos On/Off [Admin Panel]
+- [Added] Copy Affiliates Link to Clipboard
+- [Added] Languages Order
+- [Added] Countries Module [Admin Panel]
+- [Added] Default System Country
+- [Added] Multiple Select Custom Field
+- [Added] Custom Fields for Products
+- [Added] Custom Fields for Jobs
+- [Added] Custom Fields for Offers
+- [Added] Search With Custom Fields
+- [Added] Twitch Profile URL
+- [Added] Save Button on Edit Post
+- [Added] Save Button on Edit Comment
+- [Added] Login Modal for User Actions (Add Friend, Like Page ... etc)
+- [Added] Validations on all admin -> categories add/edit modules
+
+- [Fixed] Post/Photo Privacy Check Error
+- [Fixed] Censored Words Bug
+- [Fixed] Voice Notes Bug
+- [Fixed] Directory Orphan Data Bug
+- [Fixed] Album Title Translation
+- [Fixed] Article Category Name Translation
+- [Fixed] Forums Names Translation
+- [Fixed] Custom Pro Package Message Translation
+- [Fixed] Custom Field Label Translation
+- [Fixed] Ban Super Admin
+- [Fixed] Long Vertical Images
+- [Fixed] Long Vertical Videos
+- [Fixed] Lightbox Close Button
+- [Fixed] Add/Edit System Ads Dropdown Menu
+- [Fixed] Remove user from all joined groups/events when delete user
+- [Fixed] Minor Bugs
+
+#== v3.3 == ( 25-11-2021 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|GettextTranslator|PHPMailer|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [easytimer|tagify|tinymce]
+
+- [Added] View X New Posts in Newsfeed
+- [Added] Multi-Level Affiliates System
+- [Added] ADS Approval System
+- [Added] Position of the Currency Symbol (Left|Right)
+- [Added] Voice Note Encoding (MP3|OGG|WAV)
+- [Added] Voice Note Duration
+- [Added] Uploads CDN
+- [Added] Custom Ban Message
+- [Added] Custom Pro Package Message
+- [Added] Upgraded Page after Buying Pro Package
+- [Added] Fake Pages Generator
+- [Added] Fake Groups Generator
+- [Added] Points/Follower in Points System
+- [Added] Points/Referred in Points System
+- [Added] Max Results for Newsfeed Posts [Admin Panel]
+- [Added] Max Results for Pages [Admin Panel]
+- [Added] Max Results for Groups [Admin Panel]
+- [Added] Max Results for Events [Admin Panel]
+- [Added] Phone Code in Signup Form
+- [Added] Lightbox Download Button
+- [Added] Translate Countries Names
+- [Added] Translate Package Name in Packages Page
+- [Added] Translate Blog Categories in Article Page
+- [Added] Show Stories From All Users
+
+- [Fixed] Max Posts Limit for Pages 
+- [Fixed] Header/Footer Ads
+- [Fixed] Donate Permission
+- [Fixed] Header Menu Scroll
+- [Fixed] Forum Thread/Reply Username Bug
+- [Fixed] Languages Menu CSS
+- [Fixed] Recorded Audio in IOS
+- [Fixed] Lightbox UI
+- [Fixed] Odysee.com Scraper Bug
+- [Fixed] Back Home After Deleting Post
+- [Fixed] User Biography Mutiple Lines
+- [Fixed] Minor Bugs
+
+#== v3.2.1 == ( 25-08-2021 )
+- [Fixed] Edit user bug
+- [Fixed] Audio/Video Calls & Live Streaming on IOS
+- [Fixed] Agora Live Stream Recording
+- [Fixed] PayStack 404 Error
+- [Fixed] Minor Bugs
+
+#== v3.2 == ( 15-08-2021 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [Agora|AWS|Embed|FtpClient|GettextTranslator|GoogleAuthenticator|PHPMailer|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [jQuery|Agora|autosize|bootstrap.colorpicker|codemirror|easytimer|tagify|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] UI Enhancements
+- [Added] Invitations System
+- [Added] Factory Reset [Admin Panel]
+- [Added] Demo Account Mode
+- [Added] Sub-Categories (Infinite Levels) for Pages
+- [Added] Sub-Categories (Infinite Levels) for Groups
+- [Added] Sub-Categories (Infinite Levels) for Events
+- [Added] Sub-Categories (Infinite Levels) for Blogs
+- [Added] Sub-Categories (Infinite Levels) for Marketplace
+- [Added] Sub-Categories (Infinite Levels) for Offers
+- [Added] Sub-Categories (Infinite Levels) for Jobs
+- [Added] Sub-Categories (Infinite Levels) for Developers Apps
+- [Added] Google Play Store Badge on Landing Page
+- [Added] Huawei AppGallery Badge on Landing Page
+- [Added] Apple App Store Badge on Landing Page
+- [Added] "Subscription is Required" Message if Subscription is enabled
+- [Added] Remove Relationship from Find People if disabled from admin panel
+- [Added] Remove Relationship from Ads Campaigns if disabled from admin panel
+- [Added] Remove Relationship from Privacy Settings if disabled from admin panel
+- [Added] Remove Work Info from Privacy Settings if disabled from admin panel
+- [Added] Remove Location Info from Privacy Settings if disabled from admin panel
+- [Added] Remove Education Info from Privacy Settings if disabled from admin panel
+- [Added] Twemoji-amazing instead of outdated twemoji-awesome with 3500+ emojis
+- [Added] Super Admin Account can't be edited/deleted
+- [Added] Delete Button in Edit Page Edit [Admin Panel]
+- [Added] Delete Button in Edit Group Edit [Admin Panel]
+- [Added] Delete Button in Edit Event Edit [Admin Panel]
+- [Added] Refund the user when admin rejects Wallet Withdrawal Request
+- [Added] Refund the user when admin rejects Affiliates Withdrawal Request
+- [Added] Refund the user when admin rejects Points Withdrawal Request
+- [Added] Refund the user when admin rejects Funding Withdrawal Request
+
+- [Fixed] Live Stream on Mobile & Update Agora SDK to v4.x
+- [Fixed] Audio/Video Calls & Update Twilio SDK to v2.x
+- [Fixed] Add more photos in albums
+- [Fixed] Share posts to groups with approval system
+- [Fixed] Reactions on iPad
+- [Fixed] Google Maps Auto-complete
+- [Fixed] Link Scraper
+- [Fixed] Readmore.js Height
+- [Fixed] Video/Audio Views for Shared Post
+- [Fixed] Minor Bugs
+
+#== v3.1 == ( 30-05-2021 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|GettextTranslator|HybridAuth|MobileDetect|PHPMailer|SimpleImage|Smarty|Spaces|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [autosize|bootstrap.colorpicker|codemirror|easytimer|mustache|tagify|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Add Button in Header
+- [Added] Funding System
+- [Added] Paystack Payments
+- [Added] Msg91 SMS Gateway
+- [Added] Stories Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Ads Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Audio Calls Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Video Calls Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] View All Posts Option [Admin Panel]
+- [Added] Invite by Phone Number
+- [Added] Share Posts from Public Groups
+- [Added] Share Posts from Public Events
+- [Added] Edit Name Minimum Length [Admin Panel]
+- [Added] Change Modules Descriptions from Admin Panel [Admin Panel]
+- [Added] Hide Banned Users from Search Results
+- [Added] Hide Banned Users from Friends, Followings & Followers List
+- [Added] Hide Banned User's Posts
+- [Added] Display Package Name when hover on Pro Badge
+- [Added] Honeypot Check to stop Spammers
+
+- [Fixed] Remove Location Permission [Android App]
+- [Fixed] Google login issue [Android App]
+- [Fixed] Event's date Translation
+- [Fixed] OneSignal Push Notifications
+- [Fixed] URL in user first|last name
+- [Fixed] Youtube scaper height
+- [Fixed] Genders Translation
+- [Fixed] Theme must be enabled to work as default theme
+- [Fixed] Chat issue when with blocked user
+- [Fixed] Minor Bugs
+
+#== v3.0 == ( 31-01-2021 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|Faker|FTP|HybridAuth|MobileDetect|PHPMailer|SimpleImage|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [bootstrap.datetimepicker|codemirror|easytimer|moment|mustache|tinymce]
+- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+
+- [Added] Changed DB from MYISAM to INNODB
+- [Added] Background Thread for time-consuming tasks like send newsletter, garbage collector ...etc
+- [Added] Theme Switcher
+- [Added] Wallet Withdrawals
+- [Added] Admin ability to turn the Wallet Withdrawals On/Off [Admin Panel]
+- [Added] Manage Genders [Admin Panel]
+- [Added] Gender Privacy
+- [Added] Sorting in Marketplace
+- [Added] Delete For Everyone with Chat
+- [Added] Links to Custom Fields
+- [Added] Changing Username/Name remove the Verification Badge
+- [Added] Show only Usernames instead of Full Names [Admin Panel]
+- [Added] Admin ability to turn Find by Location On/Off [Admin Panel]
+- [Added] Disable Friend Request After Decline On/Off [Admin Panel]
+- [Added] Hide profile info from settings and profile page [Admin Panel]
+- [Added] Set Stories Duration [Admin Panel]
+- [Added] Show the user max file size to upload
+- [Added] Desktop Infinite Scroll [Admin Panel]
+- [Added] Different description for each module [SEO]
+- [Added] Jobs & Offers to Directory [SEO]
+- [Added] No-follow to links in the posts [SEO]
+- [Added] Added Pages Category Description [SEO]
+- [Added] Added Groups Category Description [SEO]
+- [Added] Added Events Category Description [SEO]
+- [Added] Added Offers Category Description [SEO]
+- [Added] Added Jobs Category Description [SEO]
+- [Added] Added Blogs Category Description [SEO]
+- [Added] Added Marketplace Category Description [SEO]
+
+- [Fixed] Minor Bugs
+- [Fixed] FTP uploads CORS issue
+- [Fixed] Twitch Embed issue
+- [Fixed] Page reply to the comment notification
+- [Fixed] Anonymous photos showing in user profile & albums
+
+- [Removed] Instagram Login
+
+#== v2.9 == ( 30-09-2020 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|HTMLPurifier|HybridAuth|PHPMailer|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [bootstrap.select|codemirror|dataTables|easytimer|fluidplayer|moment|tinymce]
+- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+
+- [Added] New Install/Update Wizard
+- [Added] Live Stream Module
+- [Added] Admin ability to turn Live Stream On/Off [Admin Panel]
+- [Added] Live Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Offers Module
+- [Added] Admin ability to turn Offers On/Off [Admin Panel]
+- [Added] New System Ads Place for offers Module
+- [Added] Jobs Module
+- [Added] Admin ability to turn Jobs On/Off [Admin Panel]
+- [Added] New System Ads Place for Jobs Module
+- [Added] Changing password will logout all other sessions
+- [Added] Security Check (Password Required) to change Email or Username
+- [Added] Security Check (Password Required) to delete account
+
+- [Fixed] og:image for links and media posts
+- [Fixed] Shared Anonymous Post
+- [Fixed] Profile Completion Links (Upload Profile Picture & Cover)
+- [Fixed] Total friend requests sent count
+- [Fixed] Minor Bugs
+
+#== v2.8 == ( 23-06-2020 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|FTP|HybridAuth|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio|2Checkout]
+- [Updated] Sngine JS Dependencies [jQuery|bootstrap.select|codemirror|easytimer|jquery.form|moment|mustache|tinymce]
+- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+
+- [Added] Enhance the Design
+- [Added] Convert All PNG Icons to SVG
+- [Added] Home Icon in Header
+- [Added] Online Status on Posts
+- [Added] Admin ability to turn Online Status on Posts On/Off [Admin Panel]
+- [Added] Post As Anonymous
+- [Added] Admin ability to turn Anonymous Mode on Posts On/Off [Admin Panel]
+- [Added] OneSignal Push Notifications
+- [Added] HTML Email Templates
+- [Added] Distance Unit (Mile or Kilometer)
+- [Added] Translation for DataTables
+- [Added] Translation for Tinymce
+- [Added] Blogs & Forums Photo Upload
+- [Added] Admin ability to turn Blogs & Forums Photo Upload On/Off [Admin Panel]
+- [Added] Admin ability to turn Pages Completely On/Off [Admin Panel]
+- [Added] Pages Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Admin ability to turn Groups Completely On/Off [Admin Panel]
+- [Added] Groups Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Admin ability to turn Events Completely On/Off [Admin Panel]
+- [Added] Events Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Blogs Privacy (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Marketplace Privacy (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Forums Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Movies Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Games Permission (Only Admins, Only Admins and Pro User or Everyone) [Admin Panel]
+- [Added] Reset All Users's Points [Admin Panel]
+- [Added] Admin ability to turn Infinite Scroll on Mobile On/Off [Admin Panel]
+- [Added] Admin ability to turn Cover Photo Resolution Limit On/Off [Admin Panel]
+- [Added] Admin ability to turn Comments Photo Upload On/Off [Admin Panel]
+- [Added] Admin ability to turn Chat Photo Upload On/Off [Admin Panel]
+- [Added] Admin ability to turn Wallet System On/Off [Admin Panel]
+- [Added] Admin ability to turn Wallet Transfer Money On/Off [Admin Panel]
+- [Added] Admin ability to turn Affiliates Withdraw Earned Money On/Off [Admin Panel]
+- [Added] Admin ability to turn Affiliates Transfer Earned Money To Wallet On/Off [Admin Panel]
+- [Added] More options for Garbage Collector [Admin Panel]
+- [Added] More options for Newsletter [Admin Panel]
+- [Added] Voice Notes in Posts
+- [Added] Admin ability to turn Voice Notes in Posts On/Off [Admin Panel]
+- [Added] Voice Notes in Comments
+- [Added] Admin ability to turn Voice Notes in Comments On/Off [Admin Panel]
+- [Added] Voice Notes in Chat
+- [Added] Admin ability to turn Voice Notes in Chat On/Off [Admin Panel]
+
+- [Fixed] Points System Daily Limit
+- [Fixed] Faker Random Images
+- [Fixed] DayTime Messages Timing
+- [Fixed] Disable publish button while uploading
+- [Fixed] Change SMS activation codes to be only 6 digits
+- [Fixed] Listen to 2 audio files at same time
+- [Fixed] Reaction translation
+- [Fixed] Minor Bugs
+
+#== v2.7.2 == ( 20-05-2020 )
+- [Fixed] Crtical Bugs
+
+#== v2.7.1 == ( 24-04-2020 )
+- [Fixed] Crtical Bugs
+
+#== v2.7.0 == ( 17-02-2020 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Faker|HybridAuth|PHPMailer|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [bootstrap.colorpicker|codemirror|easytimer|mustache|tinymce]
+- [Updated] Sngine CSS Dependencies [Bootstrap|Font-Awesome]
+
+- [Added] Adult Images Detection System
+- [Added] Banned Usernames
+- [Added] Banned Email Providers
+- [Added] Comments Sort by Top/Recent
+- [Added] Hide Post from My Timeline
+- [Added] New SMS BulkSMS provider
+- [Added] New SMS Infobip provider
+- [Added] New Storage Digitalocean
+- [Added] New Storage FTP
+- [Added] New Payemnts CoinPayments
+- [Added] New Payemnts 2Checkout
+- [Added] Revoke Apps Connection from User Settings
+- [Added] Watermark Overlay [Admin Panel]
+- [Added] Prevent Brute-Force Attack
+- [Added] Admin ability to turn Brute-Force Attack Detection On/Off [Admin Panel]
+- [Added] Admin ability to turn Feelings/Activity Posts On/Off [Admin Panel]
+- [Added] Static Pages Order [Admin Panel]
+- [Added] Widgets Order [Admin Panel]
+- [Added] WYSIWYG Editor in Admin Announcements [Admin Panel]
+- [Added] Delete Account button in edit user page [Admin Panel]
+- [Added] Set allowed file extension while selecting the files to upload
+
+- [Fixed] Birthdate datetime format in profile page
+- [Fixed] Delete friends & followers connections when delete user account
+- [Fixed] Reactions box position while scrolling
+- [Fixed] Minor Bugs
+
+- [Removed] Windows Phone App
+
+#== v2.6.1 == ( 23-11-2019 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|Faker|PHPMailer|reCAPTCHA|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [bootstrap.select|codemirror|datatables|easytimer|mustache|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Support for MySQL v8+
+- [Added] Unusual Login Detection
+- [Added] Admin ability to turn Unusual Login Detection On/Off [Admin Panel]
+- [Added] Moderators Panel
+- [Added] Colored Posts
+- [Added] Admin ability to turn Colored Posts On/Off [Admin Panel]
+- [Added] Manage Colored Posts Patterns [Admin Panel]
+- [Added] Profile Backgrounds
+- [Added] Admin ability enable/disable Profile Backgrounds [Admin Panel]
+- [Added] New 404 Error Page Design
+- [Added] Google Login with New APIs
+- [Added] Delete Stories
+- [Added] Affiliate URL with invite friends widget
+- [Added] Group Admin can enable/disable Publishing Posts
+- [Added] Group Admin can enable/disable Posts Approval System
+- [Added] Event Admin can enable/disable Publishing Posts
+- [Added] Event Admin can enable/disable Posts Approval System
+- [Added] Log Out Of All Sessions
+- [Added] Bank Transfer for Affiliates Withdrawal Requests
+- [Added] Bank Transfer for Points Withdrawal Requests
+- [Added] Custome Payment for Affiliates Withdrawal Requests
+- [Added] Custome Payment for Points Withdrawal Requests
+- [Added] Notify all system admins & moderators with Reports [Notifications]
+- [Added] Notify all system admins & moderators with Verification Requests [Notifications]
+- [Added] Notify all system admins with Bank Transfer [Notifications]
+- [Added] Notify all system admins with Affiliates Withdrawal Requests [Notifications]
+- [Added] Notify all system admins with Points Withdrawal Requests [Notifications]
+- [Added] User Notifications with Bank Transfer Approve/Decline [Notifications]
+- [Added] User Notifications with Affiliates Withdrawal Requests Approve/Decline [Notifications]
+- [Added] User Notifications with Points Withdrawal Requests Approve/Decline [Notifications]
+- [Added] Share Plugin
+- [Added] Admin ability enable/disable Share Plugin [Admin Panel]
+- [Added] Developers Apps
+- [Added] Admin ability enable/disable Developers Apps [Admin Panel]
+- [Added] Manage Posts from Admin Panel [Admin Panel]
+- [Added] Manage Articles from Admin Panel [Admin Panel]
+- [Added] Manage Forums Threads & Replies from Admin Panel [Admin Panel]
+- [Added] Edit in Admin/Moderator Panel Shortcut for Profiles
+- [Added] Edit in Admin/Moderator Panel Shortcut for Pages
+- [Added] Edit in Admin/Moderator Panel Shortcut for Groups
+- [Added] Edit in Admin/Moderator Panel Shortcut for Events
+- [Added] Mark All Reports As Safe [Admin Panel]
+- [Added] Newsletter Consent (GDPR)
+- [Added] Admin ability to turn Newsletter Consent (GDPR) On/Off [Admin Panel]
+- [Added] Users Insights Cards [Admin Panel]
+- [Added] Posts Insights Cards [Admin Panel]
+- [Added] Pages Insights Cards [Admin Panel]
+- [Added] Pager for Pages [Admin Panel]
+- [Added] Pager for Groups [Admin Panel]
+- [Added] Pager for Events [Admin Panel]
+- [Added] Order for Pages Categories [Admin Panel]
+- [Added] Order for Groups Categories [Admin Panel]
+- [Added] Order for Events Categories [Admin Panel]
+- [Added] Order for Blogs Categories [Admin Panel]
+- [Added] Order for Market Categories [Admin Panel]
+- [Added] Order for Movies Genres [Admin Panel]
+
+- [Fixed] Stop previous video when play new one
+- [Fixed] Chat box title with long text bug
+- [Fixed] Minor Bugs
+
+- [Removed] Google+ profile link from User & Page settings & profile page
+
+#== v2.6.0 == ( 21-09-2019 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [codemirror|mustache|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Video Calls
+- [Added] Admin ability to turn Video Calls On/Off [Admin Panel]
+- [Added] Audio Calls
+- [Added] Admin ability to turn Audio Calls On/Off [Admin Panel]
+- [Added] Chat Typing Status
+- [Added] Admin ability to turn Chat Typing Status On/Off [Admin Panel]
+- [Added] Chat Seen Status
+- [Added] Admin ability to turn Chat Seen Status On/Off [Admin Panel]
+- [Added] Local Bank Transfers
+- [Added] Admin ability to turn Bank Transfers On/Off [Admin Panel]
+- [Added] Currencies Manager (Add/Edit/Delete) [Admin Panel]
+- [Added] Purchases Pro-Package with Wallet Credit
+- [Added] Admin ability to turn Purchases Pro-Package with Wallet Credit On/Off [Admin Panel]
+- [Added] Memories
+- [Added] Admin ability to turn Memories On/Off [Admin Panel]
+- [Added] Discover Posts
+- [Added] Admin ability to turn Discover Posts On/Off [Admin Panel]
+- [Added] Popular Posts
+- [Added] Admin ability to turn Popular Posts On/Off [Admin Panel]
+- [Added] Poke System
+- [Added] Admin ability to turn Poke System On/Off [Admin Panel]
+- [Added] User Privacy for Pokes
+- [Added] Gifts System
+- [Added] Admin ability to turn Gifts System On/Off [Admin Panel]
+- [Added] User Privacy for Gifts
+- [Added] Invite Friends Widget
+- [Added] Admin ability to turn Invite Friends Widget On/Off [Admin Panel]
+- [Added] Max Post Characters Length [Admin Panel]
+- [Added] Max Comment Characters Length [Admin Panel]
+- [Added] Max Posts/Hour [Admin Panel]
+- [Added] Max Comments/Hour [Admin Panel]
+- [Added] Maximum Friends/User Limit [Admin Panel]
+- [Added] Custom Home Page Wallpaper [Admin Panel]
+- [Added] og-meta for Photo Page
+- [Added] og-meta for Game Page
+- [Added] Game will be Public if Website Public
+- [Added] Verification Badge On/Off with Pro Package [Admin Panel]
+- [Added] Free Users Daily Points Limit [Points System] [Admin Panel]
+- [Added] Pro Users Daily Points Limit [Points System] [Admin Panel]
+
+- [Fixed] Loading for modal when change from one to another
+- [Fixed] Change Privacy of cover/profile photo post
+- [Fixed] Delete user's pages, groups & events when delete his account
+- [Fixed] Comments Duplicated while sending
+- [Fixed] Change/Remove the default theme without mark other theme as default
+- [Fixed] Minor Bugs
+
+- [Removed] Intl PHP extension as requirement for Sngine
+
+#== v2.5.10 == ( 21-06-2019 )
+- [Updated] Android App
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|HybridAuth v3|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [jQuery|bootstrap.colorpicker|bootstrap.select|codemirror|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Post Reactions (like, love, haha ...etc)
+- [Added] Reactions and Share Options to Article
+- [Added] Search Case Insensitive
+- [Added] Support for PHP 7.3+
+- [Added] Support for Nginx/IIS Server
+- [Added] 2 new languages [Portuguese (Brazil) & Greek]
+- [Added] Download User Information On/Off [Admin Panel]
+- [Added] Auto Friend [Admin Panel]
+- [Added] Auto Follow [Admin Panel]
+- [Added] Auto Like [Admin Panel]
+- [Added] Auto Join [Admin Panel]
+- [Added] Garbage Collector [Admin Panel]
+- [Added] Backup Database & Files [Admin Panel]
+- [Added] Delete photos from photos page
+- [Added] Videos Tab for Profiles
+- [Added] Videos Tab for Pages
+- [Added] Videos Tab for Groups
+- [Added] Videos Tab for Events
+- [Added] Video Views Count
+- [Added] Audio Views Count
+- [Added] New Video Player (fluidplayer)
+- [Added] New Publisher Icons
+- [Added] Trending #Hashtags
+- [Added] Access any profile even if the user blocked the admin
+- [Added] Admin can access any Private/Closed group/event in the system
+- [Added] Affiliates Percentage from Package Price
+- [Added] Custom Video Thumbnail
+- [Added] Change Datetime Format [Admin Panel]
+- [Added] Datetime Picker Translations
+
+- [Fixed] Minor Bugs
+- [Fixed] Album photos count & cover photo in pages, groups & events
+- [Fixed] Disable "privacy changing" for cover photo/profile image posts
+- [Fixed] Story close button on small screens
+
+#== v2.5.9 == ( 26-04-2019 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+
+- [Added] Download My Information
+- [Added] Profile Completion
+- [Added] Share the post to Timeline, Page & Group
+- [Added] Read More for long text biography in Profile, Page, Group & Event Page
+- [Added] Search for users by email & phone [Admin Panel]
+- [Added] Delete all user posts [Admin Panel]
+- [Added] Delete all page posts [Admin Panel]
+- [Added] Delete all group posts [Admin Panel]
+- [Added] Delete all event posts [Admin Panel]
+- [Added] Edit Custom Fields values when edit User [Admin Panel]
+- [Added] Edit Custom Fields values when edit Page [Admin Panel]
+- [Added] Edit Custom Fields values when edit Group [Admin Panel]
+- [Added] Edit Custom Fields values when edit Event [Admin Panel]
+- [Added] Delete uploaded photos after delete (comment|reply)
+- [Added] Delete uploaded photos after delete from the album
+
+- [Fixed] Social Login Form Design
+- [Fixed] Reset Header Counter when open the dropdown
+- [Fixed] Custom Field description bug
+- [Fixed] Lightbox tooltip close button bug
+- [Fixed] Can't delete replies on my own post
+- [Fixed] Minor Bugs
+
+#== v2.5.8 == ( 06-04-2019 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [bootstrap|mustache|jquery-ui|datatables|bootstrap.colorpicker|bootstrap.datetimepicker|bootstrap.select|codemirror|moment|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Sngine Default Theme v2.0 with Bootsrap 4+
+- [Added] Night Mode On/Off
+- [Added] Chat Message Sound On/Off ability
+- [Added] Update @Mention functionality
+- [Added] Disable Infinite Scroll on Mobile
+- [Added] Custom Fields description & value translation ability
+
+- [Fixed] Edit Post more than 2 time bug
+- [Fixed] Messages counter on Mobile
+- [Fixed] Comments count after delete replies
+- [Fixed] Declined friend request on profile page
+- [Fixed] Stroies with videos only publish bug
+- [Fixed] UTF-8 Hashtags in Posts & Comments
+- [Fixed] UTF-8 Names in Email & Noty Notifications
+- [Fixed] UTF-8 Tags in Articles
+- [Fixed] All Reported Bugs
+
+- [Removed] Google+ Login
+
+#== v2.5.7 == ( 10-01-2019 )
+- [Fixed] Minor Bugs
+
+#== v2.5.6 == ( 01-01-2019 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [mustache|bootstrap.select|codemirror|metismenu|moment|readmore|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Delete Uploaded (Photos, Video, Audio, File) after deleting posts
+- [Added] Fake User Generator
+- [Added] Verification Attachments for Users
+- [Added] Verification Attachments for Pages
+- [Added] Admin ability to turn Two-Factor Authentication On/Off
+- [Added] Two-Factor Authentication via Email & Phone
+- [Added] Two-Factor Authentication via Google Authenticator App
+- [Added] New verification system for email & phone number
+- [Added] Twitter Card Meta Tags
+- [Added] Popular Posts
+- [Added] Last Played Time in Games
+- [Added] Use CDN for Bootstrap, FontAwesome & jQuery files
+- [Added] Added Server Side Pager to Users in Admin Panel
+- [Added] All AWS S3 Regions (10+ New Regions)
+- [Added] robots.txt file
+- [Added] Progress Bar for all uploadings
+- [Added] Keyboard Shortcuts to scroll between posts
+- [Added] New Publisher
+- [Added] GIFs Support by Giphy in Publisher
+- [Added] Admin ability to turn Giphy support in publisher On/Off
+- [Added] Auto Ad-block Detector
+- [Added] Admin ability to turn Auto Ad-block Detector On/Off
+- [Added] Auto Ad-block Warning Message in admin panel ads control
+- [Added] Auto Ad-block Warning Message in user ads manager
+- [Added] New Stories System
+- [Added] New Stories Publisher
+- [Added] Videos in Stories
+- [Added] New Product Publisher
+- [Added] Product Status New or Old
+- [Added] Product Price can be 0 or Free Product
+- [Added] Edit button when edit post from mobile
+- [Added] Edit button when edit comment/reply from mobile
+- [Added] New Album (Add Photos) Publisher
+- [Added] Turn Post Commenting On/Off
+- [Added] Share Affiliates link
+- [Added] Share post to Whatsapp
+- [Added] Admin ability to change user points balance
+- [Added] Admin ability to turn Points System on/off
+- [Added] Points System
+- [Added] Ads in Movies
+- [Added] Admin ability to turn Movies System on/off
+- [Added] Movies System
+- [Added] Find Friends by location
+- [Added] Changelog to admin panel
+
+- [Fixed] Multiple stories for same user in same day
+- [Fixed] Reposition cover photo on mobile
+- [Fixed] _emoji-menu tabs in chat
+- [Fixed] Post Privacy in Publisher
+- [Fixed] Delete stories images in Publisher
+- [Fixed] Publisher submit disabled while link scraping
+- [Fixed] Open "Edit Post" several times
+- [Fixed] Forum Thread Views Count
+- [Fixed] Getting notifications from deleted users
+- [Fixed] All Reported Bugs
+
+#== v2.5.5 == ( 06-10-2018 )
+- [Fixed] Minor Bugs
+
+#== v2.5.4 == ( 10-09-2018 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|HybridAuth|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [autosize|bootstrap.colorpicker|codemirror|datatables|mediaelement|metismenu|moment|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome]
+
+- [Added] Secured Cookies [GDPR]
+- [Added] Cookies Consent Notification [GDPR]
+- [Added] Admin ability to turn Cookies Consent Notification On/Off [GDPR]
+- [Added] Privacy Checkbox in Sign Up [GDPR]
+- [Added] Newsletter Checkbox in User Settings [GDPR]
+- [Added] Directions RTL & LTR in WYSIWYG Editor
+- [Added] Language Flag instead of icon
+- [Added] Admin ability to change user wallet balance
+- [Added] Admin ability to turn articles for users on/off [Admin Panel]
+- [Added] Delete article button from article page
+- [Added] Crop/Edit Profile Photo for Users
+- [Added] Crop/Edit Profile Photo for Pages
+- [Added] Crop/Edit Profile Photo for Groups
+- [Added] Adjust Profile Cover Position for Users
+- [Added] Adjust Profile Cover Position for Pages
+- [Added] Adjust Profile Cover Position for Groups
+- [Added] User isn't able to see blocked users comments at any posts and vice versa
+- [Added] User isn't able to see  blocked users posts in mutual groups & events and vice versa
+- [Added] Ads in Article
+- [Added] Widget in Article
+- [Added] Chat box name now clickable [Chat]
+- [Added] Chat Colors [Chat]
+- [Added] Blog Categories
+- [Added] Manage Blog Categories in Admin Panel
+- [Added] Abilty to post mobile emojies on posts, comments, and messages
+
+- [Fixed] Disable blocked people from sent chat messages [Chat]
+- [Fixed] When I delete the message of the “X” friend, then the friend “X” message to me but not display [Chat]
+- [Fixed] Forums Order Bug
+- [Fixed] Verified badge on Search Results & Notifactions
+- [Fixed] Uploaded GIF image check
+- [Fixed] Article URL for better SEO
+- [Fixed] Pin/Unpin Posts for Pages
+- [Fixed] Boost/Unboost Posts if package's limit reached
+- [Fixed] Deleted Articles in Search Results
+- [Fixed] Notification post forum reply bug
+- [Fixed] Event location if empty
+- [Fixed] Negative amount in wallet transfer
+- [Fixed] Empty post bug
+- [Fixed] Upload page/group picture/cover from different admin
+- [Fixed] Delete page/group picture/cover from different admin
+- [Fixed] Blocked users from people you may know
+- [Fixed] Minor Bugs
+
+#== v2.5.3 == ( 20-05-2018 )
+- [Updated] Documentation
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [jQuery|dataTables|mediaelement|metisMenu|moment|noty|tinymce]
+- [Updated] Sngine CSS Dependencies [Font-Awesome|Flag-Icon]
+
+- [Added] Advanced ADS system for users
+- [Added] User Wallet System
+- [Added] Send message button in mobile version
+- [Added] Posts Translation
+- [Added] "Add New Product" button in Market & My Products
+- [Added] Social Links for Pages
+- [Added] Action Button for Pages
+- [Added] Groups Categories
+- [Added] Custom Fields Order
+- [Added] Custom Fields for Pages
+- [Added] Custom Fields for Groups
+- [Added] Custom Fields for Events
+- [Added] Links posts to newsfeed filter
+- [Added] Media posts to newsfeed filter
+- [Added] Custom JavaScript Code (Header & Footer) from Admin Panel
+- [Added] Garbage collector to remove all expired subscribers and their boosted posts and pages from Admin Panel
+- [Added] Static Pages title can be translated
+- [Added] Articles in search results
+- [Added] Article cover in article content
+- [Added] Work website to profile info
+- [Added] Country to profile info
+- [Added] Manage my boosted posts
+- [Added] Manage my boosted pages
+- [Added] Manage Group Members
+- [Added] Multiple Admins for Groups
+- [Added] Manage Page Members
+- [Added] Multiple Admins for Pages
+
+- [Fixed] Link scraper trigger
+- [Fixed] Left sidebar scroll
+- [Fixed] Social signup first name and last name duplication
+- [Fixed] VK Social Login
+- [Fixed] Admin newsletter error due to timeout
+- [Fixed] Exclude hidden posts from boosted posts
+- [Fixed] Remove all boosted posts/pages after user package expired
+- [Fixed] Banned users in "People you may know"
+- [Fixed] Boost button is still here in Page even if you have disabled pro
+- [Fixed] Lightbox arrows position on mobile
+- [Fixed] Special characters in notifications
+- [Fixed] All Reported Bugs
+
+- [Removed] Bitcoin Payments
+
+#== v2.5.2 == ( 01-03-2018 )
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [Twilio]
+- [Updated] Sngine CSS Dependencies [Font-Awesome(v5)]
+
+- [Added] Forums
+- [Added] Mass Notifications from Admin Panel
+- [Added] Change Language from URL
+- [Added] Enhanced Static Pages in Admin Panel [Admin Panel]
+- [Added] Add Geolocation Map in Event Page
+- [Added] Admin ability to turn Polls on/off [Admin Panel]
+- [Added] Admin ability to turn Browser Notifications on/off [Admin Panel]
+- [Added] Admin ability to turn Noty Notifications on/off [Admin Panel]
+- [Added] Invitations System
+- [Added] Other Gender
+- [Added] Edit Phone Number from User Settings
+- [Added] Admin ability to edit user Phone Number [Admin Panel]
+- [Added] Photo Quality (High|Medium|Low) [Admin Panel]
+- [Added] Dynamic og-meta Tags
+
+- [Fixed] Name validation rules
+- [Fixed] Search find only a single word
+- [Fixed] Find people filters with empty query
+- [Fixed] Disabled pages/groups/events and user can see them but can't create
+- [Fixed] Left sidebar scroll
+- [Fixed] Delete old profile/cover photos delete the current one too
+- [Fixed] Message button on mobile need to enter username again
+- [Fixed] All Reported Bugs
+
+#== v2.5.1 == ( 19-11-2017 )
+- [Fixed] Minor Bugs
+
+#== v2.5 == ( 9-11-2017 )
+- [Updated] System Security
+- [Updated] System Optimization
+- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|ReCaptcha|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [jQuery|jquery.form|jquery.inview|jquery.geocomplete|autosize|moment|mediaelementplayer|bootstrap.select|bootstrap.datetimepicker|bootstrap.colorpicker|metisMenu|dataTables]
+- [Updated] Installer Wizard & Pre-Installation Check
+- [Updated] Sngine GTmetrix Optimization
+- [Updated] Sngine Google PageSpeed Optimization
+
+- [Added] Romanian Language
+- [Added] Events
+- [Added] Admin ability to turn Events on/off [Admin Panel]
+- [Added] Group Privacy (Public, Closed & Secret)
+- [Added] New Group Layout
+- [Added] Discover Pages
+- [Added] Discover Groups
+- [Added] Discover People
+- [Added] Blogs
+- [Added] Admin ability to turn Blogs on/off [Admin Panel]
+- [Added] Invite Friends to Events
+- [Added] Invite Friends to Pages
+- [Added] Invite Friends to Groups
+- [Added] Stories
+- [Added] Admin ability to turn Stories on/off [Admin Panel]
+- [Added] DayTime Messages (Good Morning, Afternoon, Evening)
+- [Added] Admin ability to turn DayTime Messages on/off [Admin Panel]
+- [Added] Replies
+- [Added] Reply to Reply
+- [Added] Comment Button for Mobile
+- [Added] Emojies to the Publisher
+- [Added] Stickers in [Posts|Comments|Chat]
+- [Added] Emojis Center in admin panel [Admin Panel]
+- [Added] Stickers Center in admin panel [Admin Panel]
+- [Added] Discover Games
+- [Added] User Played Games
+- [Added] Recent Searches
+- [Added] Browser Push Notifications
+- [Added] Notification Highlights
+- [Added] Noty Notifications
+- [Added] Notifications Sound Toggle On/Off
+- [Added] Friend Request email notification
+- [Added] Posts Socail Share (Facebook, Twitter, ...etc)
+- [Added] Admin ability to turn Socail Share on/off [Admin Panel]
+- [Added] Add YouTube Smart Player (Better Performance)
+- [Added] Admin ability to turn YouTube Smart Player on/off [Admin Panel]
+- [Added] Posts Settings [Admin Panel]
+- [Added] PRO Package Membership Management [User Settings]
+- [Added] PRO Package Membership Management [Admin Panel]
+- [Added] First Name + Last Name instead of Full Name
+- [Added] Login with Email or Username
+- [Added] Sessions & IPs info in edit users [Admin Panel]
+- [Added] Admin ability to turn Home Random Profiles on/off [Admin Panel]
+- [Added] Change Default Publisher Privacy from Admin Panel [Admin Panel]
+- [Added] Newsletter accept HTML Email Templates [Admin Panel]
+- [Added] @mentions now support UTF-8 charset
+- [Added] Notifications after @mention after edit post/comment
+- [Added] Ads in newsfeed
+- [Added] Ads in Marketplace
+- [Added] Enhance Ads designs & locations [Admin Panel]
+- [Added] Enhance Widgets designs & locations [Admin Panel]
+- [Added] New Passwords Hash System instead of MD5/SHA1
+- [Added] Enhanced the debugging mode
+- [Added] Sticky Sidebar in Homepage & Directory
+- [Added] New default users, pages and groups profile picture
+
+- [Fixed] CSS Bugs
+- [Fixed] All Reported Bugs
+
+#== v2.4.3 == ( 29-07-2017 )
+- [Updated] Android APP
+- [Fixed] Minor bugs
+
+#== v2.4.2 == ( 21-03-2017 )
+- [Updated] System optimization
+- [Updated] Sngine JS Dependencies [mediaelementplayer]
+- [Added] Stripe Receipt Email
+- [Fixed] Page Verification Request
+- [Fixed] Minor CSS bugs
+- [Fixed] Minor bugs
+
+#== v2.4.1 == ( 15-03-2017 )
+- [Fixed] Admin ability to boost posts & pages without package
+- [Fixed] Poll bug
+- [Fixed] Installer CSS
+- [Fixed] Verification Bug
+- [Fixed] Manage Pages/Groups Bug
+- [Fixed] Show Online Friends on Mobile
+- [Fixed] Minor bugs
+
+#== v2.4 == ( 06-03-2017 )
+- [Updated] System Security
+- [Updated] System optimization
+- [Updated] Sngine Libs [AWS|Embed|HybridAuth|PayPal|PHPMailer|reCAPTCHA|Smarty|Stripe|Twilio]
+- [Updated] Sngine JS Dependencies [jQuery|Bootstrap|Mustache|html5shiv|slimscroll|autosize|readmore|moment|datetimepicker|DataTables]
+- [Updated] Sngine CSS Dependencies [Font-Awesome|Twemoji-Awesome|Flag-Icon]
+- [Updated] Installer Wizard & Pre-Installation Check
+
+- [Added] New Mobile UI Enhancement
+- [Added] Support RTL text with LRT languages
+- [Added] Charts to Admin Panel
+- [Added] Enable/Disable Directory from admin panel
+- [Added] Enable/Disable Market from admin panel
+- [Added] Enable/Disable Contact us page from admin panel
+- [Added] Contact Us page
+- [Added] Enable/Disable Verification Requests from admin panel
+- [Added] Enable/Disable Advanced Link Scraper from admin panel
+- [Added] Advanced Link Scraper (to support short links like: https://youtu.be/5J...)
+- [Added] Registration via Subscriptions Only
+- [Added] Enable/Disable Pro Packages from admin panel 
+- [Added] SMS Verfication
+- [Added] Registration age restriction
+- [Added] New Social Login [Instagram]
+- [Added] SMTP SSL Encryption
+- [Added] SMTP setFrom Email Address
+- [Added] Test SMTP Connection from admin panel
+- [Added] Email Notifications
+- [Added] Enable/Disable Email notifications from admin panel
+- [Added] SMS via Twilio
+- [Added] Test SMS API Connection from admin panel
+- [Added] Amazon S3 integration for uploads
+- [Added] Payments Settings in admin panel
+- [Added] PayPal payments
+- [Added] CreditCard, BitCoin, Alipay payments
+- [Added] 24 Currency
+- [Added] Edit index wallpaper from admin panel
+- [Added] Ability to add free custom CSS from admin panel
+- [Added] Manage Market Categories from admin panel
+- [Added] Manage Pro Packages
+- [Added] Ability to Customize Pro Packages
+- [Added] Manage Pro Subscribers
+- [Added] Report Pro Packages Earnings
+- [Added] Affiliates System
+- [Added] Manage Affiliates Settings from admin panel
+- [Added] Manage Affiliates Withdrawal Requests from admin panel
+- [Added] Reports Enhancements in admin panel
+- [Added] Blocking (Banned IPs) in admin panel
+- [Added] Verification Requests for Users
+- [Added] Verification Requests for Pages
+- [Added] Verification Requests Manager in admin panel
+- [Added] Custom User Profile Fields
+- [Added] Privacy Settings for Custom Profile Fields
+- [Added] Staic Pages in footer menu option
+- [Added] Newsletter (aka Mailing list)
+- [Added] Add multiple ads in the same place
+- [Added] Add multiple widgets in the same place
+- [Added] Relationship Status, Biography, Website & Social Links in user profile
+- [Added] Mutiple Sessions 
+- [Added] Mutiple Sessions Manager from user settings
+- [Added] Enable/Disable Email notifications from user settings
+- [Added] Enhance Username Validation (with reserved words)
+- [Added] Make System Path in the config file not the database
+- [Added] Manage User Affiliates from from user settings
+- [Added] Manage User Affiliates Withdrawal Requests from user settings
+- [Added] Post Feelings
+- [Added] Polls
+- [Added] Market
+- [Added] Add verified icon with search results
+
+- [Fixed] Installation with STRICT_TRANS_TABLES SQL mode defined
+- [Fixed] Mobile image orientation after uploading
+- [Fixed] Visitor "like, share & comment" issue
+- [Fixed] Publisher dropdown menu if video/audio/file upload are disabled
+- [Fixed] Privacy settings for chat when chat is disabled by the admin
+- [Fixed] Link scraper 'http://..' typing error message
+- [Fixed] Image uploader CSS bug
+- [Fixed] Recaptcha CSS bug in sign up & home page
+- [Fixed] GIF Player CSS bug
+- [Fixed] CloudFlare IP addresses
+- [Fixed] Publisher textarea height after new post
+- [Fixed] Comment textarea height after new comment
+- [Fixed] User's privacy settings of [friends|pages|groups] for visitors
+- [Fixed] Read more with fixed height not number of lines for post and comment
+- [Fixed] Chat Bugs
+- [Fixed] Minor bugs
+
+#== v2.3.1 == ( 22-01-2017 ) [Script security update]
+- [Updated] Sngine Libs [PHPMailer]
+
+#== v2.3 == ( 03-09-2016 )
+- [Updated] Sngine Dependencies [Bootstrap|Font-Awesome|Flag-Icon|Twemoji-Awesome]
+- [Updated] Cache system to speed up your website (97/100 on Google PageSpeed)
+- [Updated] System Security
+- [Updated] Improve Search to include wall posts and group posts
+
+- [Added] Directory [Posts|Users|Pages|Groups|Games] for better SEO
+- [Added] Photos section in User Profile
+- [Added] Photos section in Pages
+- [Added] Photos section in Groups
+- [Added] Photo Albums for Users
+- [Added] Photo Albums for Pages
+- [Added] Photo Albums for Groups
+- [Added] Google Map API integration
+- [Added] Wall posts
+- [Added] Edit Post
+- [Added] Save Post
+- [Added] Pin Post
+- [Added] Edit Comment
+- [Added] Announcements
+- [Added] Timeline Filter
+- [Added] New posts loader
+- [Added] "Only me" as a new privacy for posts
+- [Added] Time Translation [like “7 hours ago”]
+- [Added] Groups posts on newsfeed
+- [Added] New privacy settings for [Birthdate|Work|Location|Education] info
+- [Added] New privacy settings for Wall posts [who can post on your wall]
+- [Added] Make the search public for visitors
+- [Added] Add/Change Favicon from admin panel
+- [Added] Add/Change og-image from admin panel
+- [Added] Enable/Disable wall posts from admin panel
+- [Added] Search page as a new place for Ads & Widgets
+- [Added] Search page as a new place for Ads & Widgets
+- [Added] Improved email function/settings
+- [Added] Make [User|Page|Group] profile picture & cover picture clickable
+
+- [Fixed] Duplicated Posts
+- [Fixed] Last seen time
+- [Fixed] Report page & group
+- [Fixed] Chat box name with special characters
+- [Fixed] embed-ifram videos width
+- [Fixed] Video Player for iPhone videos
+- [Fixed] Admin reported post privacy
+- [Fixed] Uploaded extensions check function
+- [Fixed] See more line drop for long text
+- [Fixed] Minor bugs
+
+- [Removed] Material Theme
+
+
+#== v2.2.3 == ( 26-07-2016 )
+- [Updated] Sngine Dependencies [Smarty|HybridAuth|Google reCAPTCHA]
+
+
+#== v2.2.2 == ( 23-07-2016 )
+- [Updated] PHPMailer
+
+- [Fixed] Minor bugs
+
+
+#== v2.2 == ( 30-04-2016 )
+- [Added] [Apps] Android APP
+- [Added] [Apps] IOS APP
+- [Added] [Apps] Windows Phone App
+- [Added] [Admin] Website Public option | Disable it to prevent non logged users to view website
+- [Added] [Admin] Cache System | Enable cache system to speed up your website
+- [Added] [Admin] Webiste Keywords for better SEO
+- [Added] [Admin] Pages Enabled | Users can create pages or only admins/moderators
+- [Added] [Admin] Groups Enabled | Users can create groups or only admins/moderators
+- [Added] [Admin] Profile visit notification | Turn the profile visit notification On and Off
+- [Added] [Admin] Geolocation Enabled | Turn the post Geolocation On and Off
+- [Added] [Admin] Getting started page | Enable/Disable getting started page after registration
+- [Added] [Admin] Delete Account option | Allow users to delete their account
+- [Added] [Admin] Accounts/IP | Number of accounts allowed to register per IP (0 for unlimited)
+- [Added] [Admin] Chat Enabled | Turn the chat system On and Off
+- [Added] [Admin] User Status Enabled | Turn the Last Seen On and Off
+- [Added] [Admin] Uploads Prefix | Add a prefix to the uploaded files
+- [Added] [Admin] Photo Upload | Enable photo upload to share & upload photos to the site
+- [Added] [Admin] Allowed video extensions | Allowed video extensions (separated with comma ',)
+- [Added] [Admin] Audio Upload | Enable audio upload to share & upload sounds to the site
+- [Added] [Admin] Max audio size | The Maximum size of uploaded audio in posts in kilobytes (1M = 1024KB)
+- [Added] [Admin] Allowed audio extensions | Allowed audio extensions (separated with comma ',)
+- [Added] [Admin] File Upload | Enable file upload to share & upload sounds to the site
+- [Added] [Admin] Max file size | The Maximum size of uploaded file in posts in kilobytes (1M = 1024KB)
+- [Added] [Admin] Allowed file extensions | Allowed file extensions (separated with comma ',)
+- [Added] [Admin] Censored Words Enabled | Enable/Disable Words to be censored
+- [Added] [Admin] Censored Words | Words to be censored, separated by a comma (,)
+- [Added] [Admin] Data Heartbeat | The update interval to check for new data (in seconds)
+- [Added] [Admin] Chat Heartbeat | The update interval to check for new messages (in seconds)
+- [Added] [Admin] Offline after | The amount of time to be considered online since the last user's activity (in seconds)
+- [Added] [Admin] Custom Design
+- [Added] [Admin] Build Version in admin panel main menu
+- [Added] Update all Sngine Dependencies to latest version
+- [Added] Uploads folder now arranged with years/months and file types like WordPress
+- [Added] Getting started page
+- [Added] User now can upload and share audio file
+- [Added] User now can upload and share any file
+- [Added] New video player with more advanced features
+- [Added] New audio player with more advanced features
+- [Added] Improved Security
+
+- [Fixed] Chat on mobile and remove chat heads
+- [Fixed] Hashtag pattern to support (_) like #hash_hash
+- [Fixed] Load More in public mode
+- [Fixed] Privacy of posts for only friends in public mode
+- [Fixed] Image remover after upload in publisher
+- [Fixed] Username validation (admin and must be 3 char)
+- [Fixed] Minor bugs
+
+
+#== v2.1 == ( 16-02-2016 )
+- [Added] Sngine 2.1 Structure for better caching and performance
+- [Added] Sngine APIs v1.0
+- [Added] Transfer Awesome features from Material theme to default theme
+- [Added] New Social Logins [Linkedin & Vkontakte]
+- [Added] New Link Scraper
+- [Added] New Documentation
+- [Added] og-meta tags for Social Marketing
+
+- [Fixed] Chat messages duplication
+- [Fixed] SMTP Emails CharSet encoding
+- [Fixed] RTL Chatbox Icons alignment "Arabic Language"
+- [Fixed] Post word-break
+- [Fixed] Material design icons render
+- [Fixed] See more for visitor
+- [Fixed] Minor bugs
+
+#== v2.0.5 == ( 20-01-2016 )
+- [Added] New Theme [Material Theme]
+- [Added] Android APP
+
+- [Fixed] Minor bugs
+
+#== v2.0.4 == ( 12-01-2016 )
+- [Added] Enable/Disable videos from admin panel
+- [Added] Upload site logo from admin panel
+- [Added] Delete user account from admin panel
+- [Added] Delete user from settings page
+- [Added] Security enhancements
+
+- [Fixed] Fixed links on iPhone
+- [Fixed] Comments encoding problem
+- [Fixed] Minor bugs
+
+#== v2.0.3 == ( 04-01-2016 )
+- [Added] Update the settings page structure in admin panel
+- [Added] Verified sign beside user name in post/comment header 
+- [Added] infinite scroll
+- [Added] Report Page/Group
+- [Added] Video Post & Video Uploader
+- [Added] Google Analytics Code from Admin Panel
+- [Added] Set Max uploaded (Profile Picture, Cover Photo, Uploaded Photo & Uploaded Video) size from Admin Panel
+- [Added] Photo Gallery 
+- [Added] Next & Prev Photo for lightbox
+- [Added] Uploading Multiple Images
+- [Added] Updated Profile Picture/Cover Photo Posts
+
+- [Fixed] Website description Bug
+- [Fixed] People you may know will show only activated people (with email confirmation)
+- [Fixed] Posting to the group issue
+- [Fixed] Photos Grid System
+- [Fixed] Single photo post comments/likes
+
+#== v2.0.2 == ( 05-12-2015 )
+- [Added] Social Logins (Facebook, Twitter, Google) 
+- [Added] Linked Accounts (Facebook, Twitter, Google)
+- [Added] Admin Panel Login while system shutdown with no problem
+- [Added] Reduce Image size and handle uploader security 
+- [Added] UI Enhancements (From your feedback)
+
+- [Fixed] Minor bugs
+
+#== v2.0.1 == ( 16-11-2015 )
+- [Added] All UI edits for mobile/desktop Layout.
+- [Added] Add 7 new languages. (10 Languages now available)
+- [Added] Add the widgets (So admin can add widget like Like Facebook Page ...etc) 
+- [Added] Start the Plugins engine.
+- [Added] Add 1st Plugin (Games)
+- [Added] Add the User the Ability to delete their own Pages/Groups.
+- [Added] Add the mutual friends counter on user profile.
+- [Added] Add shared post title
+- [Added] New Static pages appear in the footer
+- [Added] Add who share a post.
+- [Added] Admin can delete post directly from post's menu
+
+- [Fixed] Fixed the suggested pages/groups section (get only new pages/groups)
+- [Fixed] Minor bugs
+
+#== v2.0.0 == ( 06-11-2015 )
+- [Initial] Initial version
